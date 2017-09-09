@@ -15,7 +15,7 @@ $data=$_POST['data']
         //  get info and return it in string to cleint
     //  case 3:
         //  sign in with google or facebook  get info from google/facebook and buld modol based on that
-        // and send modol to conroller
+        // and send model to conroller
 
 
 
