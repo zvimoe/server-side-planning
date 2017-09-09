@@ -1,9 +1,9 @@
 <?php
 
-class userModol{
+class userModel{
     
      
-    build modol with get and set function
+    //build model with get and set function
     
     
     }
